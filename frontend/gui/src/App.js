@@ -11,6 +11,7 @@ class App extends Component {
         <Router>
           <CustomLayout>
             <BaseRouter />
+            
           </CustomLayout>
         </Router>  
       </div>
