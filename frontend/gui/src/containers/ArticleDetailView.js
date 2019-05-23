@@ -4,7 +4,6 @@ import axios from 'axios';
 import { Card, Button } from 'antd';
 import CustomForm from '../components/form';
 
-
 class ArticleDetail extends React.Component{
 
     state = {
